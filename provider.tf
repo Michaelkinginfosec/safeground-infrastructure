@@ -7,5 +7,5 @@ terraform {
     }
 }
 provider "aws"{
-    region = "~>6.0"
+    region = "eu-north-1"
 }
